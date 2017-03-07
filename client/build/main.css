@@ -1,0 +1,73 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url('http://orig10.deviantart.net/5182/f/2013/182/9/e/magic_kingdom_by_ivany86-d6biz63.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+#student-detail-text{
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 10px;
+  margin-top: 30px;
+  width: 250px;
+}
+
+#student-detail-text h3 {
+  font-family: 'UnifrakturCook', cursive;
+  font-size: 2em;
+  font-weight: lighter;
+  margin-bottom: 5px;
+}
+
+#student-details{
+
+}
+
+#student-detail-wrapper{
+  margin-top: 15px;
+}
+
+#container{
+  background-color: rgba(255, 255, 240, 0.8);
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px;
+  padding-bottom: 5px;
+}
+
+#student-select{
+
+}
+
+img{
+  margin-top: 10px;
+  width: 163px;
+  height: 227px;
+  display: inline;
+}
+
+#student-select-wrapper{
+  margin-bottom: 15px;
+}
+
+ul {
+  text-align: left;
+  padding: 0;
+  margin-top: 0;
+  font-family: fantasy;
+}
+
+li {
+  list-style: none;
+  list-style-type: none;
+}
